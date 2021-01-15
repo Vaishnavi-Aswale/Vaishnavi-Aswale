@@ -15,12 +15,14 @@
 <br/>
 <br/>
 <br/>
+<br/>
 <p>
 <h4>💬 Let's talk about tech, travel, series and food 💻 🏕  ><h4>
 <h4>Also, I love to make memes<a href="https://twitter.com/VaishnaviAswale">
  Here's my twitter handle! 
 </a></h4>
  </p>
+ 
 <a href="https://www.linkedin.com/in/vaishnavi-aswale/">
   <img align="left" alt="Vaishnavi's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
