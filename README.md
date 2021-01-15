@@ -13,7 +13,7 @@
 </a></h4>
 
 
-<a href="www.linkedin.com/in/vaishnavi-aswale">
+<a href="https://www.linkedin.com/in/vaishnavi-aswale/">
   <img align="left" alt="Vaishnavi's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://twitter.com/VaishnaviAswale">
