@@ -4,7 +4,6 @@
  
 
 <h4>Projects: <a href="https://github.com/Vaishnavi-Aswale?tab=repositories"> Github Repository</a></h4>
-<h4>Data visualization <a href="https://public.tableau.com/profile/vaishnavi3737#!/ "> Tableau profile</a></h4>
 <p>
  
 
