@@ -10,6 +10,9 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.python.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a>
+ <a href="https://www.java.com/" target="_blank">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java" width="40" height="40"/>
+</a>
   <a href="https://webpack.js.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg" alt="webpack" width="40" height="40"/> </a>
   <a href="" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="webpack" width="40" height="40"/> </a>
  <a href="https://codeigniter.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/codeigniter/codeigniter-plain.svg" alt="codeignitor" width="40" height="40"/> </a>
@@ -34,7 +37,7 @@
 <br/>
 <p>
 <br/>
-<h4>💬 Let's talk about tech, travel, series and food 💻 🏕  <h4>
+<h4>💬 Let's talk about tech, travel and food 💻 🏕  <h4>
  </p>
  
 <a href="https://www.linkedin.com/in/vaishnavi-aswale/">
