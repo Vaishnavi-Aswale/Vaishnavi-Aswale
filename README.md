@@ -26,17 +26,11 @@
   <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
     <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
  
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishnavi-Aswale&layout=compact&hide=html" alt="Vaishnavi-Aswale" />
-
 </p>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+
 <p>
-<br/>
+ <h4>Portfolio: <a href="https://vaishnavi-aswale.netlify.app/"> Website</a></h4>
+
 <h4>💬 Let's talk about tech, travel and food 💻 🏕  <h4>
  </p>
  
